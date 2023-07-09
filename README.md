@@ -12,7 +12,7 @@ Currently Pursuing a Master's Degree in Robotics at the State University of New 
 - 💬 Quote I believe: Where there's life there's hope 🤞
   
 - E-Mail 📤: baranidh@buffalo.edu, baranidharan05100@gmail.com
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/baranidharan-balasubramanian/))
+- [LinkedIn](https://www.linkedin.com/in/baranidharan-balasubramanian/)
 
 
 
