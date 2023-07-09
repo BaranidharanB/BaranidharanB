@@ -9,6 +9,10 @@ Currently Pursuing a Master's Degree in Robotics at the State University of New 
 - Practical industry experience as an Automation/Robotics Engineer, proficient in PLC Industrial controllers, Industrial Robots, Machine Vision systems, and AGV programming.
 - Certified in ROS, Machine Learning, and Deep Learning, showcasing expertise in these transformative areas.
 
-- '💬 Quote I believe: Where there's life there's hope 🤞'
+- 💬 Quote I believe: Where there's life there's hope 🤞
+  
+- E-Mail 📤: baranidh@buffalo.edu, baranidharan05100@gmail.com
+- LinkedIn: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/baranidharan-balasubramanian/))
+
 
 
